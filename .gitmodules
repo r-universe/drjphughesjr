@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "batchmeans"]
+	path = batchmeans
+	url = https://github.com/cran/batchmeans
+	shallow = true
+	registered = true
+[submodule "copCAR"]
+	path = copCAR
+	url = https://github.com/cran/copCAR
+	shallow = true
+	registered = true
+[submodule "hash"]
+	path = hash
+	url = https://github.com/cran/hash
+	shallow = true
+	registered = true
+[submodule "krippendorffsalpha"]
+	path = krippendorffsalpha
+	url = https://github.com/cran/krippendorffsalpha
+	shallow = true
+	registered = true
+[submodule "ngspatial"]
+	path = ngspatial
+	url = https://github.com/cran/ngspatial
+	shallow = true
+	registered = true
+[submodule "pearson7"]
+	path = pearson7
+	url = https://github.com/cran/pearson7
+	shallow = true
+	registered = true
+[submodule "sklarsomega"]
+	path = sklarsomega
+	url = https://github.com/cran/sklarsomega
+	shallow = true
+	registered = true
