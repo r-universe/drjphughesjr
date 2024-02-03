@@ -11,6 +11,9 @@
 [submodule "copCAR"]
 	path = copCAR
 	url = https://github.com/cran/copCAR
+[submodule "goweragreement"]
+	path = goweragreement
+	url = https://github.com/cran/goweragreement
 [submodule "hash"]
 	path = hash
 	url = https://github.com/cran/hash
